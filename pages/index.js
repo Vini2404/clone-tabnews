@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Vinizik é fodão</h1>
+    return <h1>Vinizik é fodão ahhahahaah</h1>
    
 }
 
